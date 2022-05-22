@@ -12,4 +12,4 @@
 ![yuanzhigang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhigang-source&show_icons=true&theme=tokyonight)
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yuanzhigang-source&theme=xcode" /> </div>
